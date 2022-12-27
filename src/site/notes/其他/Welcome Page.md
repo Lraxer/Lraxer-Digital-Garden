@@ -9,4 +9,4 @@
 
 可以通过左侧边栏，通过传统的树形结构，寻找对应的条目。也可以通过右侧的本地网络图谱，寻找与本条目关联的更多内容。
 
-网站构建采用了 [GitHub - oleeskild/obsidian-digital-garden](https://github.com/oleeskild/Obsidian-Digital-Garden) 的主题和 Digital Garden 插件，目前还有一些小问题，不支持 tag，permalink 的生成对中文不太友好，但总体来说是一个很有潜力的工具。
+网站构建采用了 [GitHub - oleeskild/obsidian-digital-garden](https://github.com/oleeskild/Obsidian-Digital-Garden) 的主题和 Digital Garden 插件，目前还有一些小问题，比如似乎不支持 tag 的显示和搜索，有一些需求也需要自己 DIY，但总体来说是一个很有潜力的工具。
