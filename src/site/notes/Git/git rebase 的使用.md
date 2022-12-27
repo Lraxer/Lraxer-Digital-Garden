@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/git/git-rebase/"}
+{"dg-publish":true,"permalink":"/Git/git rebase 的使用/"}
 ---
 
 
