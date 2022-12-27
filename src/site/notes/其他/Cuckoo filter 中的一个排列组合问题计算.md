@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//cuckoo-filter/"}
+{"dg-publish":true,"permalink":"/其他/Cuckoo filter 中的一个排列组合问题计算/"}
 ---
 
 
