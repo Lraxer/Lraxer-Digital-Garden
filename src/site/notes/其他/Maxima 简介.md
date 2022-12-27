@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//maxima/"}
+{"dg-publish":true,"permalink":"/其他/Maxima 简介/"}
 ---
 
 
