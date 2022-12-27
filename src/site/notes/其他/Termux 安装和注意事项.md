@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//termux/"}
+{"dg-publish":true,"permalink":"/其他/Termux 安装和注意事项/"}
 ---
 
 
