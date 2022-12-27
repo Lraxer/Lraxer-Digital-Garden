@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//bash/"}
+{"dg-publish":true,"permalink":"/其他/如何在 bash 中暂停/"}
 ---
 
 
