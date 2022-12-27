@@ -52,7 +52,7 @@ git config --global --add safe.directory /storage/emulated/0/data/<repo_name>
 
 ## 使用 Termux Widget
 
-按照 安装 所讲的，选择正确的插件来源进行安装。
+按照 [[其他/Termux 安装和注意事项#安装\|安装]] 所讲的，选择正确的插件来源进行安装。
 
 在家目录中新建 `.shortcuts` 文件夹。然后在里面添加想用的 shell 脚本。
 
@@ -79,7 +79,7 @@ git config --global --add safe.directory /storage/emulated/0/data/<repo_name>
 	git status
 	read -p ""
 	```
-	
+
 - 清空本地的更改 `restore-graph.sh` 。因为我只用手机阅读，不用来写作，为了避免出现冲突使用这个脚本。不过这个脚本只能清除新建的文件，不能清除经过修改的文件。最好还是直接 `git reset --hard HEAD` 比较好，反正移动端不会 push 代码。
 
 	``` shell
