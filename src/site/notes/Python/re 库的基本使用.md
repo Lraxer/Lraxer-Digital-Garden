@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python/re/"}
+{"dg-publish":true,"permalink":"/Python/re 库的基本使用/"}
 ---
 
 
