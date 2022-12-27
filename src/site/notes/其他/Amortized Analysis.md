@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//amortized-analysis/"}
+{"dg-publish":true,"permalink":"/其他/Amortized Analysis/"}
 ---
 
 
