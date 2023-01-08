@@ -28,7 +28,9 @@ pkg update
 pkg install git openssh termux-tools
 ```
 
-获取存储访问权限 ^b25a76
+获取存储访问权限
+{ #b25a76}
+
 
 ``` shell
 termux-setup-storage
