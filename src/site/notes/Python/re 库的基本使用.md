@@ -57,8 +57,8 @@ re.findall(r'\bf[a-z]*', 'which foot or hand fell fastest')
 re.findall(r'(\w+)=(\d+)', 'set width=20 and height=10')
 # [('width', '20'), ('height', '10')]
 ```
+{ #7a002f}
 
-^7a002f
 
 ### `finditer`
 
