@@ -16,8 +16,8 @@
 > `CHERRY_PICK_HEAD` records the commit which you are cherry-picking when you run `git cherry-pick`.
 > 
 > `@` alone is a shortcut for `HEAD`.
+{ #dfb31f}
 
-^dfb31f
 
 ## `HEAD~` 与 `HEAD^`
 
