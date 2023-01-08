@@ -13,4 +13,6 @@
 
 ## 使用注意
 
-避免出现类似连续两个 `{` 的情况，包括代码块中。根据 [Troubleshooting - Escape Contents | Hexo](https://hexo.io/docs/troubleshooting.html#Escape-Contents) 的解释，这会导致 Nunjucks 的渲染出问题，要想避免这种渲染，还需要加 raw tag。因此最好的办法是在 `{` 和 `%` 之间加空格。例如 `{ {` 和 `{ %` 就不会构建失败了。
+1. 避免出现类似连续两个 `{` 的情况，包括代码块中。根据 [Troubleshooting - Escape Contents | Hexo](https://hexo.io/docs/troubleshooting.html#Escape-Contents) 的解释，这会导致 Nunjucks 的渲染出问题，要想避免这种渲染，还需要加 raw tag。因此最好的办法是在 `{` 和 `%` 之间加空格。例如 `{ {` 和 `{ %` 就不会构建失败了。
+2. 似乎不支持中文搜索。这是一个比较影响体验的问题。
+
