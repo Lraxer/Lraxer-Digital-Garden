@@ -81,4 +81,4 @@ OUTPUT FORMATS
 
 这里面并不都是图片格式。比如 `-Tdot, -Txdot, -Tcanon` 这些可以作为 dot 脚本的 formatter 来用。
 
-上面的状态转移图生成的图片可以参考 [[其他/有限状态机的实现#状态转移图\|有限状态机的实现#状态转移图]] 。
+上面的状态转移图生成的图片可以参考 [[其他/Finite-State Machine 的实现\|Finite-State Machine 的实现]] 。
