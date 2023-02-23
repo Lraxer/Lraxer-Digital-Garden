@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Python/re 库的基本使用/"}
+{"dg-publish":true,"permalink":"/Python/re 库的基本使用/","tags":["regex, python"]}
 ---
 
 
