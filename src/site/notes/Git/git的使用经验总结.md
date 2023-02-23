@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Git/git的使用经验总结/"}
+{"dg-publish":true,"permalink":"/Git/git的使用经验总结/","tags":["git"]}
 ---
 
 
