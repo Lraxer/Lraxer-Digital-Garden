@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/其他/Amortized Analysis/"}
+{"dg-publish":true,"permalink":"/其他/Amortized Analysis/","tags":["algorithm"]}
 ---
 
 
