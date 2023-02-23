@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Git/HEAD以及回退/"}
+{"dg-publish":true,"permalink":"/Git/HEAD以及回退/","tags":["git"]}
 ---
 
 
