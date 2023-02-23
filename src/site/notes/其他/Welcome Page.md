@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/其他/Welcome Page/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/其他/Welcome Page/","tags":["gardenEntry"]}
 ---
 
 
