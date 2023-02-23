@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Git/git submodule 的报错/"}
+{"dg-publish":true,"permalink":"/Git/git submodule 的报错/","tags":["git"]}
 ---
 
 
